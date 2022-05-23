@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manasik29
 - 👀 I’m interested in Python, Data Scince, Data Analytics, Machine learning, 
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Python, Data Science, Data Analytics, ML, AI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on manasik29@rediffmail.com.
 
