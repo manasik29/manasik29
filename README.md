@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manasik29
-- 👀 I’m interested in Data Scince, Data Analytics, Machine learning, 
+- 👀 I’m interested in Python, Data Scince, Data Analytics, Machine learning, 
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on manasik29@rediffmail.com.
