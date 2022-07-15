@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @manasik29
-- 👀 I’m interested in Python, Data Scince, Data Analytics, Machine learning, 
-- 🌱 I’m currently learning Python, Data Science, Data Analytics, ML, AI.
+- 👋 Hi, I’m Mansi Kshirsagar
+- 👀 I’m interested in AI, Data Scince, Deep learning, Machine learning, Data Analytics. 
+- 🌱 I’m currently learning AI --> Data Science --> Deel Learning, Machine Learning through Python language. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on manasik29@rediffmail.com.
 
